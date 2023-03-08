@@ -1,27 +1,44 @@
 {title: What a Wonderful World}
 {artist: Louis Armstrong}
-{capo: 5}
+{capo: 3}
 
-{comment: my capo: 3}
+I see [C]trees of [Em]green 
+[F]^ Red roses [Em]too
+[Dm]^ I see them [C]bloom 
+[E7]^ For me and [Am]you
+And I [Ab]think to myself 
+[Dm7]^ what a [G]wonderful [C]world [Dm7] [G]
 
-I see t[C]rees of g[Em]reen, r[F]ed roses t[Em]oo
-[Dm]I see them [C]bloom, f[E7]or me and y[Am]ou
-And I [Ab]think to mysel[Dm7]f, what a w[G]onderful wo[C]rld[G]
-
-I see [C]skies of [Em]blue and c[F]louds of w[Em]hite
-[Dm]The bright blessed [C]day, the [E7]dark sacred n[Am]ight
-And I [Ab]think to mysel[Dm7]f, what a w[G]onderful wo[C]rld
-
+I see [C]skies of [Em]blue 
+[F]^ and clouds of [Em]white
+[Dm]^ The bright blessed [C]day 
+[E7]^ The dark sacred [Am]night
+And I [Ab]think to myself 
+[Dm7]^ What a [G]wonderful [C]world [Dm7] [G]
 
 {comment: Bridge}
+The [Dm7]colours of the rain-[G]bow 
+So [C]pretty in the [Cmaj7]sky
+Are [Dm7]also on the fa-[G]ces 
+of [C]people going [Cmaj7]by
+I see [Am]friends shaking [Em]hands 
+saying [Am]^ how do you [Em]do
+[Am]^ They’re really [A7]saying [Dm7]I love [G]you
 
-The [G]colours of the rainbow, so[C]pretty in the sky
-[G]Are also on the faces of[C]people going by
-I see fr[Am]iends shaking h[Em]ands saying [Am]how do you [Em]do
-[F]They’re really[Em] sayin[Dm]g I l[C]ove [G]you
+{column_break}
+I hear [C]babies [Em]crying, 
+I [F]watch them g[Em]row
+[Dm]^ They'll learn much [C]more 
+Than [E7]I'll ever [Am]know
+And I [Ab]think to myself 
+[Dm7]^ what a [G]wonderful [C]world [Bb7] [A7]
 
-I hear [C]babies [Em]crying, I [F]watch them g[Em]row
-[Dm]They'll learn mu[C]ch more than I[E7]'ll ever k[Am]now
-And I [Ab]think to myself,[Dm7] what a [G]wonderful wo[C]rld[Bb7][A7]
+{comment: Outro}
+Yes I [Fmaj7]think to myself 
+[Dm7]^ What a [G]wonderful [C]world
 
-Yes I [Fmaj7]think to myself,[Dm7] what a w[G]onderful wo[C]rld
+{comment: Verse chords}
+[C]  [Em] [F]  [Em] 
+[Dm] [C]  [E7] [Am]
+[Ab]
+[Dm7] [G] [C] [Dm7] [G]
