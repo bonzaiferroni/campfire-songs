@@ -1,55 +1,46 @@
 {title: In My Life}
 {artist: The Beatles}
-{capo: 0}
+{capo: 6}
 
 {comment: Intro}
-[A][E]
+[G][D][G][D]
 
 {start_of_verse}
-There are [A]places [E]I'll re[F#m]member[A7/G]
-All my [D]li[Dm]fe though [A]some have changed
-Some for[A]ever [E]not for [F#m]better[A7/G]
-Some have [D]go[Dm]ne and [A]some remain
+There are [G]places [D]I'll re[Em]member, [G7]    
+All my [C]li--[Cm]ife though [G]some have changed.
+Some for[G]ever [D]not for [Em]better, [G7]    
+Some have [C]go--[Cm]one and [G]some remain.
+All these [Em]places had their [C]moments, 
+With [F]lovers and friends I [G]still can recall,
+Some are [Em]dead and some are [A]living, 
+In [Cm]my life I've [G]loved them all.
+[G] [D]
 {end_of_verse}
-
-{comment: Bridge 1}
-All these [F#m]places have their [D]moments
-With [G]lovers and friends I [A]still can recall
-Some are [F#m]dead and some are [B]living
-In [Dm]my life I've [A]loved them all
-
-{comment: Interlude}
-[A][E]
 
 {start_of_verse}
-But of [A]all these [E]friends and [F#m]lovers[A7/G]
-There is [D]no [Dm]one com[A]pares with you
-And these [A]memories [E]lose their [F#m]meaning[A7/G]
-When I [D]think of [Dm]love as [A]something new
+But of [G]all these [D]friends and [Em]lovers, [G7]     
+There is [C]no [Cm]one com[G]pares with you,
+And these [G]memories [D]lose their [Em]meaning, [G7] 
+When I [C]think of [Cm]love as [G]something new.
+Though I [Em]know I'll never lose a[C]ffection 
+For [F]people and things that [G]went before,
+I [Em]know I'll often stop and think a[A7]bout them, 
+In [Cm]my life I'll [G]love you more.
 {end_of_verse}
 
-{comment: Bridge 2}
-Though I [F#m]know I'll never lose af[D]fection
-For [G]people and things that [A]went before
-I [F#m]know I'll often stop and think a[B]bout them
-In [Dm]my life I [A]love you more
+{comment: Instrumental}
+[G][D][Em][G7/F][C][Cm][G]
 
-{comment: Solo}
-[A][E][F#m][A7/G][D][Dm][A]
-[A][E][F#m][A7/G][D][Dm][A]
+[G][D][Em][G7/F][C][Cm][G]
 
-{comment: Bridge 3}
-Though I [F#m]know I'll never lose af[D]fection
-For [G]people and things that [A]went before
-I [F#m]know I'll often stop and think a[B]bout them
-In [Dm]my life I [A]love you more
+{start_of_verse}
+Though I [Em]know I'll never lose a[C]ffection 
+For [F]people and things that [G]went before,
+I [Em]know I'll often stop and think a[A7]bout them, 
+In [Cm]my life I'll [G]love you more.
+[G][D]
+{end_of_verse}
 
-{comment: Interlude}
-[A][E]
-
-{comment: Coda}
-In [Dm]my life ... I love you more
-
-[A][E][E7][A]
-
+In [Cm]my life 
+I'll love you [G]more [D][D7][G]
 
